@@ -1,0 +1,8 @@
+         Best Known Solution            My scheme 1 (Largest Degree+ Kempe Chain)              My scheme 2 (DSatur + Kempe Chain)
+                                                 Largest Degree    Kempe Chain                       DSatur            Kempe Chain 
+          Timeslots    Penalty      Timeslots   Previous Penalty  Reduced Penalty      Timeslots   Previous Penalty  Reduced Penalty   
+CAR91         35       4.42           35         10.888922         6.803545              31          11.194387         7.6812997
+CAR92         32       3.74           32         9.335631         5.4764104              30          8.709213         6.3475757
+KFU93         20      12.96           20         36.75229         17.309965              19          36.659935         19.911945
+TRE92         23       7.75           22         14.182569         10.367202              23          14.230046         10.533945
+YOR83         21      34.84           23         49.816154         33.515408              20          48.722637         40.697132
