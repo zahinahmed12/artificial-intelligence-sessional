@@ -1,0 +1,19 @@
+
+solution file          scheme1                        scheme2                       scheme3
+                       MAC+SDF                       FC+DomdDeg                    FC+Brelaz
+                  Nodes     Backtracks             Nodes     Backtracks          Nodes    Backtracks
+
+d-10-01           138        81                      27640     27583              57       0
+
+d-10-06           57         0                       108546    108489             57       0
+
+d-10-07           61         4                       97462     97405              146      89
+
+d-10-08           1831      1774                     8719      8662               2031     1975
+
+d-10-09           73        16                       201521    201430             13711    13654
+
+d-15-01           237271    237165                  1102410    1102390            456158   456052
+
+
+
